@@ -19,7 +19,7 @@ Include the jvectormap.css file in your project:
 
 ## Example usage
             <div style={{width: 500, height: 500}}>
-                <VectorMap map={'us_aea'}
+                <VectorMap map={'ok-precincts-2020_merc'}
                            backgroundColor="#3b96ce"
                            ref="map"
                            containerStyle={{
@@ -62,26 +62,26 @@ You can allways add a `ref` to your VectorMap and access the following methods (
 ## Supported Maps
 
 * world_mill
-* us_aea
+* ok-precincts-2020_merc
 * europe_mill
 * continents_mill
-* ch_mill
+* ok-house-districts-2010_merc
 * oceania_mill
-* africa_mill
-* asia_mill
+* ok-counties_merc
+* ok-congressional-districts-2010_merc
 * north_america_mill
 * south_america_mill
-* ca_lcc
-* brazil
-* se_mill
-* es_mill
+* ok-county-commissioner-districts-2020_merc
+* ok-county-commissioner-districts-2010_merc
+* ok-senate-districts-2010_merc
+* ok-municipalities-2020_merc
 * vietnam
 * indonesia
-* th_mill
-* de_mill
-* ar_mill
-* au_mill
+* ok-senate-districts-2020_merc
+* ok-municipalities-2010_merc
+* ok-career-tech-districts-2020_merc
+* ok-congressional-districts-2020_merc
 * kr_mill
-* co_mill
+* ok-house-districts-2020_merc
 
 **Please feel free to request new maps! just open an issue!**

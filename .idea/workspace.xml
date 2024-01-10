@@ -89,7 +89,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lib/maps/ru_mill.js">
+        <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-school-district-wards-2020_merc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
@@ -154,7 +154,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lib/maps/in_mill.js">
+        <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-precincts-2010_merc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="114447" selection-start-column="114447" selection-end-column="114735" />
@@ -176,8 +176,8 @@
       <find>macaddress</find>
       <find>ok-counties_merc</find>
       <find>africa</find>
-      <find>brazil</find>
-      <find>se_mill</find>
+      <find>ok-county-commissioner-districts-2010_merc</find>
+      <find>ok-senate-districts-2010_merc</find>
       <find>dev-ser</find>
       <find>entryopt</find>
       <find>webpack</find>
@@ -192,24 +192,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/lib/maps/canada_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/brazil.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-county-commissioner-districts-2010_merc.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/sweden.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/es_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/ar_mill.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-municipalities-2020_merc.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-career-tech-districts-2020_merc.js" />
         <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/vietnam.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/indonesia.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/th_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/de_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/au_mill.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-senate-districts-2020_merc.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-municipalities-2010_merc.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-congressional-districts-2020_merc.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/kr_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/co_mill.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-house-districts-2020_merc.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/demo/india.js" />
         <option value="$PROJECT_DIR$/src/lib/components/VectorMap.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/india_mill.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/fr_regions_mill.js" />
-        <option value="$PROJECT_DIR$/src/lib/maps/ru_mill.js" />
+        <option value="$PROJECT_DIR$/src/lib/maps/ok-school-district-wards-2020_merc.js" />
         <option value="$PROJECT_DIR$/src/lib/maps/index.js" />
         <option value="$PROJECT_DIR$/src/demo/App.js" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
@@ -377,10 +377,10 @@
     <entry file="file://$PROJECT_DIR$/build/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/asia_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-congressional-districts-2010_merc.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/ca_lcc.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-county-commissioner-districts-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="44" selection-start-column="38" selection-end-column="44" />
@@ -394,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/brazil.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-county-commissioner-districts-2010_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-start-column="4" selection-end-column="4" />
@@ -410,14 +410,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/se_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-senate-districts-2010_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="45" selection-start-column="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/ar_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-career-tech-districts-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="66" selection-start-column="66" selection-end-column="66" />
@@ -438,21 +438,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/es_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-municipalities-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="59" selection-start-column="59" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/th_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-senate-districts-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/de_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-municipalities-2010_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
@@ -473,7 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/au_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-congressional-districts-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="3" selection-start-column="3" selection-end-column="3" />
@@ -487,7 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/co_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-house-districts-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="66" selection-start-column="66" selection-end-column="66" />
@@ -511,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/in_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-precincts-2010_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="114447" selection-start-column="114447" selection-end-column="114735" />
@@ -528,7 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/maps/ru_mill.js">
+    <entry file="file://$PROJECT_DIR$/src/lib/maps/ok-school-district-wards-2020_merc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
